@@ -4,6 +4,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "http://15abc.xyz/:splat"
+  to = "http://gmatop.dns/:splat"
   status = 301
   force = true
